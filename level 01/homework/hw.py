@@ -1,0 +1,7 @@
+print("fries")
+print("dog")
+print("37")
+print("andro")
+print("vaxo")
+print("natia")
+print("liza")
