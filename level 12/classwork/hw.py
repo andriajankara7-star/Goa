@@ -1,0 +1,16 @@
+#ბულეანი არის true და false true-ჭეშმარიტი/სიმართლე false-მცდარი
+#შედარების ოპერაცია გვეხმარება გავიგოთ თუ რიცხვი მეტია ნაკლები ან ტოლი მეორე რიცხვზე მაგ: print(6 > 9)
+print(6 > 9) 
+print(6 > 8)
+print(6 > 7)
+print(6 > 10)
+print(6 > 100)
+print(10 > 9) 
+print(11 > 8)
+print(12 > 7)
+print(13 > 10)
+print(6767 > 100)
+name = input("enter your age:")
+print(name > "18")
+
+
