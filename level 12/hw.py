@@ -12,5 +12,3 @@ print(13 > 10)
 print(6767 > 100)
 name = input("enter your age:")
 print(name > "18")
-
-
