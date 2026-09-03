@@ -1,0 +1,24 @@
+/* id selector-ი მარტო ერთ თეგისვის იყენება და იწერება #-ით */
+/* class selector-ი რამდენიმე თეგისთვის შეგიძლია გამოიყენო და იწერება .-ით მაგ: */
+ #santa {
+ color: blue;
+ border-color: aqua;
+ }
+
+ .andro {
+ color: lightcoral;
+ border-color: lightskyblue;
+ }
+
+
+ p {
+  color: black;
+}
+
+.andro {
+  color: red;
+}
+
+#aandro {
+  color: blue;
+}
