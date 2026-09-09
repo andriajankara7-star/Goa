@@ -1,0 +1,4 @@
+/* pseudo selectori გვეხმარება რომ გავსტილოთ დროებით კლასის და იდს გარეშე ვისწავლეთ :hover  მაგ:*/
+button:hover {
+background-color: blue;
+}
